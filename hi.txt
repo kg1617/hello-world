@@ -1,1 +1,7 @@
 hi there everyone, I am learning Git because I rock.
+This is my change to the file! 
+
+Git can not track Microsoft applications. It can track changes in Python, CVS, Text Plain. 
+
+Microsoft has encrypted encoding,it is a binary so it can not be easily tracked.
+These are the notes.
